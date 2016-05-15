@@ -1,8 +1,8 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Mark Lin's CV 
+description: xxice520's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
+baseurl: https://xxice520.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
@@ -15,14 +15,14 @@ exclude: [vendor]
 # Author settings
 author:
   name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  title: Software Developer
+  address: HsinChu, Taiwan
+  email: xxice520@gmail.com
+  link: https://www.google.com.tw
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: xxice520
+  linkedin: 
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -73,7 +73,7 @@ author:
       percentage: 100%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 0%
     - skill3:
       name: JavaScript
       percentage: 70%
